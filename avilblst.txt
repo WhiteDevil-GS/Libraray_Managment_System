@@ -1,0 +1,28 @@
+001 -- Java Edition 1
+002 -- C++ Edition 1 (Part 1)
+003 -- Python for Beginners
+004 -- The Art of Programming
+005 -- Data Structures and Algorithms in Java
+008 -- JavaScript: The Good Parts
+009 -- Machine Learning 101
+010 -- Artificial Intelligence: A Modern Approach
+011 -- Database Systems: Concepts, Design, and Implementation
+012 -- Network Security and Cryptography
+013 -- Game Development with Unity
+014 -- iOS App Development: Swift Programming
+015 -- Android Application Development
+016 -- Data Science for Beginners
+017 -- Deep Learning Essentials
+018 -- Introduction to Robotics
+019 -- UX Design: Principles and Practices
+020 -- Digital Marketing Strategies
+021 -- Project Management Fundamentals
+022 -- Financial Accounting Basics
+023 -- Entrepreneurship: From Idea to Launch
+024 -- Biographies of Famous Scientists
+025 -- Self-Help: Unlocking Your Potential
+026 -- Mystery and Suspense Novels
+027 -- Fantasy Fiction: Epic Tales
+028 -- Science Fiction Classics013 -- Game Development with Unity
+029 -- Historical Non-Fiction
+030 -- Ethical Hacking Using Linux Volume027 -- Fantasy Fiction: Epic Tales003 -- Python for Beginners
