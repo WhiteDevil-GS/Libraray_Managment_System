@@ -107,7 +107,7 @@ print("\n[3] --> To Quit")
 
 while True:
     try:
-        opt = int(input("\n kg-------> "))
+        opt = int(input("\n -------> "))
     except Exception as e:
         print("  *", e, "*")
         continue
